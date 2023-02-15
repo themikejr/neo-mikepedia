@@ -16,7 +16,7 @@ up :: [∴ Mikepedia](./%E2%88%B4-Mikepedia.md)
 - [Greek/Conjunctions](./Conjunctions.md)
 
 # Digital Representation
-- [Greek/Greek Typing Reference](./Greek-Typing%20Reference.md)
+- [Greek/Greek Typing Reference](./Greek-Typing-Reference.md)
 - [Greek/Unicode](./Unicode.md)
 
 # Phonology
@@ -27,5 +27,5 @@ up :: [∴ Mikepedia](./%E2%88%B4-Mikepedia.md)
 - [Greek/Syntax](./Syntax.md)
 
 # Study
-- [Greek/Areas of Study](./Areas-of%20Study.md)
-- [Greek/2023 Learning Schedule](./2023-Learning%20Schedule.md)
+- [Greek/Areas of Study](./Areas-of-Study.md)
+- [Greek/2023 Learning Schedule](./2023-Learning-Schedule.md)
