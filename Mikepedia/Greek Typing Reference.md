@@ -1,5 +1,4 @@
 ---
-title: Greek Typing Reference
 share: true
 date: 2023-01-04
 description: "Notes on how to type Koine Greek."
