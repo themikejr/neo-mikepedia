@@ -1,5 +1,4 @@
 ---
-title: Verbs
 share: true
 #permalink: writing/greek/verbs/
 date: 2023-01-04
