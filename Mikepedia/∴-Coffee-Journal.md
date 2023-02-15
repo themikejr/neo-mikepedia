@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-up :: [../index](./index.md)
+up :: [index](./index.md)
 
 # ∴ Coffee Journal
 
