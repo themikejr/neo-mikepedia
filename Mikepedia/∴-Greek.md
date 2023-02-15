@@ -4,7 +4,7 @@ created: 2023-02-01
 modified: 2023-02-10
 ---
 
-up :: [∴ Mikepedia](./%E2%88%B4-Mikepedia.md)
+up :: [index](./index.md)
 
 # ∴ Greek
 
