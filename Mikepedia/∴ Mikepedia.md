@@ -11,4 +11,4 @@ share: true
 
 Welcome to the public-facing portion of my **memex**. This is a place where I explore ideas using linked notes. If you're interested in notes, linked thought, and personal knowledge management, you may want to dive into [∴ PKM](PKM.md).
 
-If you are interested in ancient Greek or linguistics, check out  my notes on learning (Koine) [∴ Greek](Greek.md). I also have thoughts on [∴ Software Development](Software-Development.md). When I write notes on coffee experiences, they land in [∴ Coffee Journal](Coffee-Journal.md).
+If you are interested in ancient Greek or linguistics, check out  my notes on learning (Koine) [∴ Greek](./%E2%88%B4%20Greek.md). I also have thoughts on [∴ Software Development](./%E2%88%B4%20Software%20Development.md). When I write notes on coffee experiences, they land in [∴ Coffee Journal](./%E2%88%B4%20Coffee%20Journal.md).
