@@ -2,7 +2,6 @@
 share: true
 ---
 <h1 class="site-name">∴ Mikepedia</h1>
-
 <div class="tagline-container">
 	<div id="indefinite-article">a digital</div>
 	<strong><div id="tagline">compendium</div></strong>
