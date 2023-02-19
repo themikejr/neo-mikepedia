@@ -16,6 +16,7 @@ Writing is a crucial aspect of the PKM process. [writing is cathartic](./writing
 - [GTD](GTD.md)  
 - [Commonplace Book](Commonplace%20Book.md)  
 - [HyperCard](./HyperCard.md)  
+- [Thinking in graphs for managing personal knowledge](./Thinking-in-graphs-for-managing-personal-knowledge.md)  
   
   
   
