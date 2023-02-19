@@ -1,8 +1,7 @@
 ---  
 share: true  
 ---  
-up :: [../Atlas/Maps/∴ Concepts](../%E2%88%B4%20Concepts.md)  
-tags :: #note/develop   
+up :: [∴ Concepts](../%E2%88%B4%20Concepts.md)  
   
 # Tree (Data Structure)  
 *I organize with hierarchy.*  
