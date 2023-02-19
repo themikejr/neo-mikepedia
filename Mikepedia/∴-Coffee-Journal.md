@@ -1,7 +1,7 @@
 ---  
 share: true  
 ---  
-up :: [∴ Mikepedia](./%E2%88%B4-Mikepedia.md)  
+up :: [∴ Mikepedia](./index.md)  
   
 # ∴ Coffee Journal  
   
