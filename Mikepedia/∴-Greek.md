@@ -30,3 +30,5 @@ up :: [../index](./index.md)
 - [Areas of Study](./Areas-of-Study.md)
 - [2023 Learning Schedule](./2023-Learning-Schedule.md)
 - [Why I Want To Learn Koine Greek](Why%20I%20Want%20To%20Learn%20Koine%20Greek.md)
+- [Cognitive Linguistics](Cognitive%20Linguistics.md)
+- 
