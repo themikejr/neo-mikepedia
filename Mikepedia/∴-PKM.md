@@ -1,6 +1,7 @@
 ---  
 share: true  
 ---  
+{:.meta}  
 up :: [∴ Mikepedia](./%E2%88%B4-Mikepedia.md)  
   
 # ∴ PKM  
