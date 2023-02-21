@@ -1,6 +1,5 @@
 ---  
 share: true  
-layout: wiki  
 ---  
 up :: [∴ Mikepedia](./index.md)  
   
