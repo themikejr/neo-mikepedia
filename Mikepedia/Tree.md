@@ -1,7 +1,7 @@
 ---  
 share: true  
 ---  
-up :: [∴ Concepts](../%E2%88%B4%20Concepts.md)  
+up :: [∴ Software Development](./%E2%88%B4-Software-Development.md)  
   
 # Tree (Data Structure)  
 *I organize with hierarchy.*  
