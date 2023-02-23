@@ -4,6 +4,7 @@ share: true
 up :: [Tree](./Tree.md)  
   
 # Trees are rigid  
+*structure first, content later*.  
   
 One common criticism of using a [Tree](./Tree.md) to organize information is that **trees** tend to be inflexible. One has to dedicate some amount of thought to determine a meaningful hierarchal structure so that everything has a the right "place" to live. In a hierarchal structure like a tree, *proximity* is used as a way to communicate meaning and relationship.  
   
@@ -15,4 +16,8 @@ In organizations, **trees** are used to to describe the structure of people and 
 >   
 > The actual observed working structure of the organisation is a multiply connected "web" whose interconnections evolve with time. In this environment, a new person arriving, or someone taking on a new task, is normally given a few hints as to who would be useful people to talk to. Information about what facilities exist and how to find out about them travels in the corridor gossip and occasional newsletters, and the details about what is required to be done spread in a similar way. All things considered, the result is remarkably successful, despite occasional misunderstandings and duplicated effort.  
   
-Alternatively, [graphs are flexible](./graphs-are-flexible.md).
+Alternatively, [graphs are flexible](./graphs-are-flexible.md).  
+  
+# References  
+  
+- [Information Management: A Proposal](https://www.w3.org/History/1989/proposal.html), by Tim Berners-Lee
