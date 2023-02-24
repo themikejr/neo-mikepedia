@@ -1,5 +1,6 @@
 ---  
 share: true  
+title: "a digital knowledgebase"  
 permalink: mikepedia/index.html  
 ---  
 <h1 class="site-name">∴ Mikepedia</h1>  
