@@ -1,5 +1,6 @@
 ---  
 share: true  
+title: "Trees are rigid"  
 ---  
 up :: [Tree](./Tree.md)  
   
