@@ -1,5 +1,6 @@
 ---  
 share: true  
+title: "Cognitive Linguistics"  
 ---  
 up :: [∴ Greek](./%E2%88%B4-Greek.md)  
 tags :: #note/develop   
