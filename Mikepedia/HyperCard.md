@@ -1,5 +1,6 @@
 ---  
 share: true  
+title: HyperCard  
 ---  
 up :: [∴ Interests](../%E2%88%B4%20Interests.md)  
 tags :: #note/develop   
