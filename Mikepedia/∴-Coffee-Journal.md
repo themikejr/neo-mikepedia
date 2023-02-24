@@ -1,5 +1,6 @@
 ---  
 share: true  
+title: Coffee Journal  
 ---  
 up :: [∴ Mikepedia](./index.md)  
   

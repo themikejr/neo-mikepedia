@@ -1,5 +1,6 @@
 ---  
 share: true  
+title: "Lessons from Publishing My PKM System as a Website"  
 ---  
 up :: [∴ Software Development](./%E2%88%B4-Software-Development.md)  
 tags :: #note/develop   

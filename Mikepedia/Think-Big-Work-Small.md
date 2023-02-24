@@ -1,5 +1,6 @@
 ---  
 share: true  
+title: "Think Big, Work Small"  
 ---  
 up :: [∴ Software Development](./%E2%88%B4-Software-Development.md)  
   

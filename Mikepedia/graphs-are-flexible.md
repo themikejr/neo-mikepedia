@@ -1,5 +1,6 @@
 ---  
 share: true  
+title: "Graphs are flexible"  
 ---  
 up :: [Graph](./Graph.md)  
   

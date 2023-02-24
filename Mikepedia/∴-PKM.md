@@ -1,18 +1,19 @@
 ---  
 share: true  
+title: PKM  
 ---  
 up :: [∴ Mikepedia](./index.md)  
   
 # ∴ PKM  
   
-PKM, or [Personal Knowledge Management](./Personal-Knowledge-Management.md) is an emerging field of practice where knowledge workers and enthusiasts engage in [Collecting Information](./Collecting-Information.md), [Developing Knowledge](./Developing-Knowledge.md), and [Producing Knowledge.](./Producing-Knowledge-.md) Perhaps the largest benefit of PKM practices is engaging in [Active Thinking](./active-thinking.md).  
+PKM, or [Personal Knowledge Management](./Personal-Knowledge-Management.md) is an emerging field of practice where knowledge workers and enthusiasts construct workflows for [Collecting](./Collecting-Information.md), [Developing](./Developing-Knowledge.md), and [Producing Knowledge.](./Producing-Knowledge-.md) Despite all the geeky goodness in debating workflows and tools, perhaps the largest benefit of a PKM practice is engaging in [Active Thinking](./active-thinking.md).  
   
-I create notes about PKM as I pursue employing these practices myself. I do not want my PKM practice to merely be [Meta Expertise](./Meta-Expertise.md).  
+I create notes about PKM as I pursue employing these practices myself. I do not want my PKM practice to merely be [Meta Expertise](./Meta-Expertise.md), but admittedly, I enjoy the topic very much. I'm in the process of completing the *[Linking Your Thinking](https://www.linkingyourthinking.com/)* workshop. I've also been accumulating a list of [resources for exploring PKM](./Resources-for-Exploring-PKM.md).  
   
-# Writing  
+## Writing  
 Writing is a crucial aspect of the PKM process. [writing is cathartic](./writing-is-cathartic.md). [writing aids understanding](./writing-aids-understanding.md).  
   
-# Methods, Movements, Tools, and Techniques  
+## Methods, Movements, Tools, and Techniques  
 - [GTD](GTD.md)  
 - [Commonplace Book](Commonplace%20Book.md)  
 - [HyperCard](./HyperCard.md)  
