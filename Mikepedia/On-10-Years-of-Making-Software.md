@@ -1,5 +1,6 @@
 ---  
 share: true  
+title: "On 10 Years of Making Software"  
 description: "Thoughts and reflections about why I (still) love making software."  
 date: 2022-11-30  
 layout: article  
