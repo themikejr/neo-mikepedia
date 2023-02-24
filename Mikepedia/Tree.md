@@ -1,5 +1,6 @@
 ---  
 share: true  
+title: "Tree (Data Structure)"  
 ---  
 up :: [∴ Software Development](./%E2%88%B4-Software-Development.md)  
   
