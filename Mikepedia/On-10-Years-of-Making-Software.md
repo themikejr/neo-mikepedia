@@ -15,7 +15,7 @@ tags :: #essay
   
 As the point in time that I began **Making Software** moves farther and farther away, I oscillate between feeling as if it began a long time ago and as if it was yesterday. Surely though, much has changed in that time --- not only about me but about the world we all live and work in. When I started out in 2012, open offices were just washing ashore at the conservatively-cultured bank that I worked at. I was put on an **agile** scrum team of five developers along with a **QA** and a **Scrum Master**. We were _literally_ making a spreadsheet for the web. While learning to sling code in Java 6 I was fed a robust diet of methodological guidance both in theory and in practice. **TDD**, **Story Points**, **Sprints**, **Clean Code**. There were just as many new buzz words as experiences in those early months. I watched mustachioed, grown men passionately yell at groups of other humans about **ESB**s (Enterprise Service Bus... don't look it up). We strove to automate our deployments, bring agility to company culture, and iteratively deliver value to customers. The best days were a surreal mixture of science fiction, fantasy, and late 90s office decor. Sometimes when the developers would get together to solve a problem, I felt like an X-Wing pilot listening to General Dodonna's briefing as I was about to assault the Death Star.   
   
-![General Dodonna's Briefing|General Dodonna's Briefing](./assets/dodonna-briefing.png)  
+![assets/general-dodonna-briefing.png|General Dodonna's Briefing|General Dodonna's Briefing](./assets/dodonna-briefing.png)  
   
 On the worst days, I often felt as though I had tasted the future (surely an **[../Cards/Agile](./Agile.md)** mindset could solve the problems besetting **IT** projects and society at large) but was held back by the red tape and stodgy outlooks of middle-management at the medium-sized regional bank where I held my employ.  
   
@@ -74,7 +74,7 @@ Due to the influence of those I was working with, I learned early on that **Maki
 # Creating  
 From a philosophical point of view, I believe "there's nothing new, only fresh ways of combining old stuff."[^3] As creatures ourselves everything we can do is derivative of the creation itself in some way that is impossible to disentangle. When **Making Software** though, there is sometimes and undeniable sensation that not only is something being created or born in front of our eyes, but that we are a part of that process. Whether derivative or not, that sensation can be exhilarating.  
   
-[^3](and%20not%20just%20in%20music)%20gets%20it%20wrong%20by%20telling%20to%20the%20students%20to%20%22be%20themselves.%22%20There's%20nothing%20new,%20only%20fresh%20ways%20of%20combining%20old%20stuff.%20If%20you%20are%20in%20an%20academic%20environment,%20students%20should%20just%20go%20to%20the%20library%20a%20lot%22%20*Twitter*.%203%20December,%202022,%20Link.md)  
+[^3]: "I think a lot of liberal arts education (and not just in music) gets it wrong by telling to the students to "be themselves." There's nothing new, only fresh ways of combining old stuff. If you are in an academic environment, students should just go to the library a lot"  Ethan Iverson, *Twitter*, 3 December, 2022 [Link](https://twitter.com)  
   
 At its best, this amounts to sense of mystery and wonder while one does the work --- watching something be created from (seemingly) nothing all while not knowing how the experience will unfold. In what some considered a stuffy office job --- surrounded by geeks, ugly office decor, and sub-par coffee ---  there is to be found creativity, joy, hope, expectation, uncertainty, and delight. And what makes **Making Software** *the best* is that when wielded carefully, these delights can be accessed almost daily. Early on I was stuck by an excerpt from Frederick Brooks (emphasis mine) that captures what it can be like:  
   
@@ -84,7 +84,7 @@ At its best, this amounts to sense of mystery and wonder while one does the work
 >   
 > *Fred Brooks, The Mythical Man-Month: Essays on Software Engineering*  
   
-[^4] Brooks, Frederick P., Jr., *The Mythical Man-Month: Essays on Software Engineering*. Addison-Wesley, 1982.  
+[^4]: Brooks, Frederick P., Jr., *The Mythical Man-Month: Essays on Software Engineering*. Addison-Wesley, 1982.  
   
 In my early months at my first gig, I watched as our team discovered what we should build and how we should build it _as we were building it._ My mentor showed me both in microcosm and macrocosm that one often has to make something in order to figure out what should be made. This discovery by way of making was fractal -- that is, it appeared at every granularity of the project. Out of thin air I watched the castle be designed and built simultaneously and I was one of the wizards doing it, all while surrounded by post-it notes, aging Herman-Miller chairs, and bad coffee (have I mentioned the coffee was *really* bad?). Working like a wizard while surrounded by people who thought it was just as much fun as I did? Surely, I had stumbled upon some sort of secret life cheat code that enabled work to be fun and delightful.  
   
