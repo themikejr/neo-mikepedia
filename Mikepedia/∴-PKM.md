@@ -8,7 +8,7 @@ up :: [∴ Mikepedia](./index.md)
   
 PKM, or [Personal Knowledge Management](./Personal-Knowledge-Management.md) is an emerging field of practice where knowledge workers and enthusiasts construct workflows for [Collecting](./Collecting-Information.md), [Developing](./Developing-Knowledge.md), and [Producing Knowledge](./Producing-Knowledge.md). Despite all the geeky goodness in debating workflows and tools, perhaps the largest benefit of a PKM practice is engaging in [Active Thinking](./active-thinking.md).  
   
-At the risk of developing [Meta Expertise](./Meta-Expertise.md), I create notes about PKM as I pursue these practices myself. I'm currently taking the *Linking Your Thinking* workshop. I'm also developing a list of [resources for exploring PKM](./Resources-for-Exploring-PKM.md).  
+At the risk of developing [Meta Expertise](./Meta-Expertise.md), I create notes about PKM as I pursue these practices myself. I've recently completed the *Linking Your Thinking* workshop. I'm also developing a list of [resources for exploring PKM](./Resources-for-Exploring-PKM.md).  
   
 ## Writing  
 Writing is a crucial aspect of the PKM process. [writing is cathartic](./writing-is-cathartic.md). [writing aids understanding](./writing-aids-understanding.md).  
