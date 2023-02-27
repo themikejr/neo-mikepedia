@@ -13,7 +13,7 @@ Conversely, there is a point where when a tool becomes powerful enough to implem
   
 # References  
   
-James Tauber, [The Meta Experts]([The Meta Experts | jtauber | ThoughtStreams](https://thoughtstreams.io/jtauber/the-meta-experts/)):  
+James Tauber, [The Meta Experts](https://thoughtstreams.io/jtauber/the-meta-experts/):  
   
 > ...people that tout themselves as experts in X but are really (self-professed) experts in being expert at X.   
   
