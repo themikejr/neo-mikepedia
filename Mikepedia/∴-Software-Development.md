@@ -13,5 +13,5 @@ When it comes to **METHOD**, many people speak in terms of [Agile](./Agile.md) a
 **Data Structures** are interesting and they are everywhere. [Trees](./Tree.md) are naturally intuitive. [Graphs](./Graph.md) are surprisingly flexible.   
   
 ## Retrospectives  
-- [../Essays/On 10 Years of Making Software](./On-10-Years-of-Making-Software.md)  
-- [../Cards/Lessons from Publishing My PKM System as a Website](./Lessons-from-Publishing-My-PKM-System-as-a-Website.md)
+- [On 10 Years of Making Software](./On-10-Years-of-Making-Software.md)  
+- [Lessons from Publishing My PKM System as a Website](./Lessons-from-Publishing-My-PKM-System-as-a-Website.md)
