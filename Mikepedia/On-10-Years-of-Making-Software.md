@@ -17,7 +17,7 @@ As the point in time that I began **Making Software** moves farther and farther 
   
 ![General Dodonna's Briefing|General Dodonna's Briefing](./assets/dodonna-briefing.png)  
   
-On the worst days, I often felt as though I had tasted the future (surely an **[AGILE](./Agile.md)** mindset could solve the problems besetting **IT** projects and society at large) but was held back by the red tape and stodgy outlooks of middle-management at the medium-sized regional bank where I held my employ.  
+On the worst days, I often felt as though I had tasted the future (surely an **[../Cards/Agile](./Agile.md)** mindset could solve the problems besetting **IT** projects and society at large) but was held back by the red tape and stodgy outlooks of middle-management at the medium-sized regional bank where I held my employ.  
   
 Much has changed since those days for me and others --- some of which might even be worth discussing. My goal here is to reflect on what it is about making software that I continue to find so enriching. Most of this is inextricably tied up in my own journey: the extremely helpful mentor I had early on, the insane situations I happened upon, the friends I made, the mistakes I committed, and the internal commitments, failures, fears, and strivings of my own fickle heart. Perhaps though, the themes here are deep enough that they are helpful to others for reflection as well.  
   
