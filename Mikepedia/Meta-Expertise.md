@@ -7,7 +7,9 @@ tags :: #note/develop
   
 # Meta Expertise  
   
-From *Meta Expert* (coined by [James Tauber](https://thoughtstreams.io/jtauber/the-meta-experts/)), **META EXPERTISE** is a recursive skill set --- one that only serves to improve itself. There is something tiring and vacuous about the blogger who only blogs about blogging, the PKM expert who seems to only manage knowledge about PKM, and the expert in online courses who only makes courses that teach people how to make courses.  
+From *Meta Expert* (coined by [James Tauber](https://thoughtstreams.io/jtauber/the-meta-experts/)), **META EXPERTISE** is a recursive skill set --- one that only serves to improve itself.   
+  
+There is something tiring and vacuous about the blogger who only blogs about blogging, the PKM expert who seems to only manage knowledge about managing knowledge, and the expert in online courses who only makes courses that teach people how to make courses.  
   
 Conversely, there is a point where when a tool becomes powerful enough to implement itself, it has reached a new level of viability. Implementing a programming language *in itself* is seemingly a write of passage as is blogging about blogging.  
   
