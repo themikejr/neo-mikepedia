@@ -35,29 +35,21 @@ I was always seeking...
 - *Mikepedia* for sharing  
 - [Home](../Home.md)  
   
-  
 ## Workflows  
-  
   
 ### Daily Notes  
   
 - Daily Log  
-- Sparks  
+- Sparks ([query](../Sparks.md))  
 - Meeting Notes  
-  
   
 ### Reading  
 - Bibnotes ([∴ The Spirit of Early Christian Thought](../%E2%88%B4%20The%20Spirit%20of%20Early%20Christian%20Thought.md))  
 	- => Highlight + Reflection  
 	- => Main Notes  
   
-  
 ### Sharing  
 - [Mikepedia](https://mikebrinker.net/mikepedia)  
-  
-  
-  
-  
   
 # What's Next?  
   
