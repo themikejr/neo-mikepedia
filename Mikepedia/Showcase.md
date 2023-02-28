@@ -26,7 +26,11 @@ I was always seeking...
   
   
   
-# What I Implemented During LYT 10  
+# What I Learned and Implemented  
+  
+## New Concepts  
+- note-making & active thinking  
+- navigating via links & MOCs  
   
 ## Structure  
 - *Pensees* for daily notes  
