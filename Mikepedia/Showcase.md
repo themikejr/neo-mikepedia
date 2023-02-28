@@ -42,6 +42,7 @@ I was always seeking...
 - Daily Log  
 - Sparks ([query](../Sparks.md))  
 - Meeting Notes  
+- Tasks  
   
 ### Reading  
 - Bibnotes ([∴ The Spirit of Early Christian Thought](../%E2%88%B4%20The%20Spirit%20of%20Early%20Christian%20Thought.md))  
@@ -53,7 +54,6 @@ I was always seeking...
   
 # What's Next?  
   
-- Exploring [Quartz](https://github.com/jackyzha0/quartz)  
 - [Bible Data](https://github.com/Clear-Bible/macula-greek) => Hypertext  
 	- Obsidian-ready data  
 	- Plugin?  
