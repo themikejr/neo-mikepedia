@@ -10,7 +10,7 @@ PKM, or [Personal Knowledge Management](./Personal-Knowledge-Management.md) is a
   
 At the risk of developing [Meta Expertise](./Meta-Expertise.md), I create notes about PKM as I pursue these practices myself. I'm also developing a list of [resources for exploring PKM](./Resources-for-Exploring-PKM.md).  
   
-I've recently completed the *[Linking Your Thinking](https://linkingyourthinking.com)* workshop. During the [showcase](./Showcase.md), some people found [my reading workflow](../My%20Reading%20Workflow.md) to be helpful.  
+I've recently completed the *[Linking Your Thinking](https://linkingyourthinking.com)* workshop. During the [showcase](./Showcase.md)...  
   
 ## Writing  
 Writing is a crucial aspect of the PKM process. [writing is cathartic](./writing-is-cathartic.md). [writing aids understanding](./writing-aids-understanding.md).  
