@@ -6,11 +6,11 @@ up :: [∴ PKM](./%E2%88%B4-PKM.md)
 # My Reading Workflow  
 *a lightweight process for developing ideas*  
   
-When it comes to **PKM** and **TAKING NOTES**, having a solid reading workflow is important. The strong desire for [Collecting Information](./Collecting-Information.md) is often a trap that leads to complex worflows that don't add value. This is reading and note-taking workflow that is lightweight but has room to expand when it's worth it. There are three steps in the workflow, each with their own note type.   
+When it comes to **PKM** and **TAKING NOTES**, having a solid reading workflow is important. The strong desire for [Collecting Information](./Collecting-Information.md) is often a trap which breeds to complex workflows that sound cool but don't add value. This reading and note-taking workflow is lightweight but has room to expand when it's worth it. There are three steps in the workflow, each with their own note type.   
   
-This workflow is not an invention out of thin air. It's a result of [Combinational Creativity](../Combinational%20Creativity.md). It has many similarities to other popular note-taking system. It is even similar to the old-school way that the man himself, Niklas Luhmann, took notes.   
+This workflow is not an invention out of thin air. It's a result of [Combinational Creativity](../Combinational%20Creativity.md). It definite similarities to other note-taking systems, even the old-school way that the man himself --- Niklas Luhmann --- took notes.   
   
-The **reading workflow** starts with the **Hub Note**. Then, if the needed, it progresses to the **Highlight Note** and the **Main Note**.  
+The **reading workflow** starts with the **Hub Note**. If the needed it progresses to the **Highlight Note** and finally, **Main Note**.  
   
 ## 1: The Hub Note  
 The idea with the **Hub Note** is the lightweight place to record thoughts that occur while consuming a source. When a thought occurs while reading, record the page number and a word, phrase, or sentence that describes the thought. Here is an example:  
