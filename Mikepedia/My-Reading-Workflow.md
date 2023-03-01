@@ -16,7 +16,7 @@ The idea with the **Hub Note** is to give yourself a very lightweight place to r
   
 108 seek his face always  
 153 our mind is beyond us  
-173 the student begins by putting himself in hands of teacher  
+173 student begins by putting himself in hands of teacher  
 ```  
   
 The page number gives you a spot to go back to. If you wish to highlight in the actual book that may help with recall. The text next to the page number is intentionally written. Ideally, it is a phrase written in your words that evokes what prompted you to note this passage. It can be a direct quotation, but there is value summarizing it in your own words. This is an initial avenue toward [active thinking](./active-thinking.md).  
