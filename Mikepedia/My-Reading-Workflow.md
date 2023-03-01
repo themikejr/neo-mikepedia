@@ -4,11 +4,16 @@ share: true
 up :: [∴ PKM](./%E2%88%B4-PKM.md)  
   
 # My Reading Workflow  
+*a lightweight process for developing ideas*  
   
-When it comes to **PKM** and **TAKING NOTES**, having a solid reading workflow is important. For those with a strong desire for [Collecting Information](./Collecting-Information.md) (as I have) it's easy to design a note-taking workflow for reading that is too complex or cumbersome. Often, a complex workflow sounds good in our minds, but in reality we lack the time and patience to use it. I've landed on a reading + note-taking workflow in my **PKM** system that is very lightweight but at the same time as room to expand as much as one wants to interact with the source material. The **Reading Workflow** consists of 3 value-add steps or note types. I won't claim that I've invented this workflow myself. It is very similar to aspects of other approaches to **PKM**. It may not even be that different from Luhmann's own reading workflow. I take this as a good sign! Newer and shinier is not better. The three value-add note types are **The Hubnote**, **The Highlight Note**, and **The Main Note**.  
+When it comes to **PKM** and **TAKING NOTES**, having a solid reading workflow is important. The strong desire for [Collecting Information](./Collecting-Information.md) is often a trap that leads to complex worflows that don't add value. This is reading and note-taking workflow that is lightweight but has room to expand when it's worth it. There are three steps in the workflow, each with their own note type.   
+  
+This workflow is not an invention out of thin air. It's a result of [Combinational Creativity](../Combinational%20Creativity.md). It has many similarities to other popular note-taking system. It is even similar to the old-school way that the man himself, Niklas Luhmann, took notes.   
+  
+The **reading workflow** starts with the **Hub Note**. Then, if the needed, it progresses to the **Highlight Note** and the **Main Note**.  
   
 ## 1: The Hub Note  
-The idea with the **Hub Note** is to give yourself a very lightweight place to record thoughts that occur while you are consuming a source. A source could be an article, book, or essay. This could also be expanded for other media like film. In any case, all you have to do when you have a thought while reading is write down the page note, and a word, phrase, or sentence that describes the thought you had. Here is an example:  
+The idea with the **Hub Note** is the lightweight place to record thoughts that occur while consuming a source. When a thought occurs while reading, record the page number and a word, phrase, or sentence that describes the thought. Here is an example:  
   
 ```markdown  
 # The Spirit of Early Christian Thought  
@@ -19,12 +24,12 @@ The idea with the **Hub Note** is to give yourself a very lightweight place to r
 173 student begins by putting himself in hands of teacher  
 ```  
   
-The page number gives you a spot to go back to. If you wish to highlight in the actual book that may help with recall. The text next to the page number is intentionally written. Ideally, it is a phrase written in your words that evokes what prompted you to note this passage. It can be a direct quotation, but there is value summarizing it in your own words. This is an initial avenue toward [active thinking](./active-thinking.md).  
+The page number is an anchor linking back to the source itself. Highlighting or other marks in the source might assist recall. The note next to the page number is written with intention. Ideally, it is in your own words. It can be a direct quotation, but there is value in the thinking needed to express yourself. This is one way into [active thinking](./active-thinking.md).  
   
-I first got this idea from [Bob Doto](https://writing.bobdoto.computer/what-is-a-literature-note/). He calls this the **Reference Note**. [Scott Scheper]() calls this the **Bibnote**. As Scheper notes, this is basically what Luhmann did while he read. In fact, depending on where you are reading, you might want to start with an analog version of the hub note by tucking an index card in your book and using it to track these thoughts as you read. An approach like this is truly old school and lets you disconnect from the digital world.  
+I first got this idea from [Bob Doto](https://writing.bobdoto.computer/what-is-a-literature-note/). He calls this the **Reference Note**. [Scott Scheper]() calls this the **Bibnote**. Scheper would say this is basically what Luhmann (I believe him). Depending on where/how one reads, it may be worth starting with an analog version of the hub note. Tuck an index card in your book and use it to track these thoughts as you read. Old school approaches like these allow one to disconnect from the digital world.  
   
 ## 2: The Highlight Note  
-The **Highlight Note** is the next step in developing your thinking. If one of the lines that you created in your **Hub Note** continues to resonate, turn that text into a note who's filename is the noted phrase itself. Humor me and imagine that the text marked in brackets`[...]` are links to other notes. For example, I've decided to further reflect on *seek his face always*, so I link to a **Highlight Note** in my **Hub Note**:  
+The **Highlight Note** is the next step in developing the thought. If one of the lines in the **Hub Note** continues to resonate, turn that text into a note who's filename is the noted phrase itself. For example, here is a case where I decided to further reflect on *seek his face always*, so I link to a **Highlight Note** in my **Hub Note** (`[...]` denotes linked text):  
   
 ```markdown  
 # The Spirit of Early Christian Thought  
@@ -35,7 +40,7 @@ The **Highlight Note** is the next step in developing your thinking. If one of t
 173 student begins by putting himself in hands of teacher  
 ```  
   
-In the highlight note, create a dated section and commit to reflecting on the passage for a few minutes. Very often, new connections, ideas, and notes are born here. An example **Highlight Note** looks like this:  
+In the **highlight note**, create a dated section and commit to reflecting on the passage for a few minutes. Very often, new connections, ideas, and notes are born here. An example **Highlight Note**:  
   
 ```markdown  
 up:: [The Spirit of Early Christian Thought]  
@@ -69,7 +74,7 @@ New note ideas:
 I became convinced of the value of an exercise like this when [Bianca Pereira](https://biancapereira.me/) led us in a 6 minute freewriting exercise during the [Linking Your Thinking](https://linkingyourthinking.com) workshop. In 6 minutes I had deeper ideas about the topic at hand than I ever expected to have. If a note in your hub note is worth reflecting on, take 5 minutes or so and freewrite. You probably won't regret it.   
   
 ## 3: The Main Note  
-The freewriting exercise will often lead to ideas that will lead you to create a **Main Note**. A main note is a canonical note that relates to a single idea, like a concept, person, or statement of some sort. The **Main Note** is the pure thought-stuff of your PKM system. These notes can grow over time, get connected to other notes in exciting ways, and often breed new notes. An example:  
+The freewriting exercise will often lead to ideas that that are worth storing in a **Main Note**. These notes are canonical ones that store a single idea, concept, person, or statement. The **Main Note** is the pure thought-stuff of a PKM system. These notes can grow over time, get connected to other notes in exciting ways, and often breed new notes. An example:  
   
 ```markdown  
 up :: [Concepts]  
@@ -90,4 +95,4 @@ a mindset that can help us to [remain open] as
 we become wiser.   
 ```  
   
-There are many approaches to actually writing the **Main Note** so don't take my example above as the one true way. The "right" way to do it is a topic of debat amongst PKM geeks. I certainly didn't come up with the idea of atomic notes myself. [Andy Matuschak](https://notes.andymatuschak.org/Evergreen_notes) calls them **Evergreen Notes**. [Sonke Ahrens](https://twitter.com/soenke_ahrens?lang=en) calls them **Permanent Notes**. [Nick Milo](https://twitter.com/NickMilo) calls them **Thing** and **Statement** notes.  
+There are many approaches to actually writing the **Main Note**. The example above is not the one true way. The "right" way to do it is a topic of debate amongst the PKM geeks. I certainly didn't come up with the idea of atomic notes myself. [Andy Matuschak](https://notes.andymatuschak.org/Evergreen_notes) calls them **Evergreen Notes**. [Sonke Ahrens](https://twitter.com/soenke_ahrens?lang=en) calls them **Permanent Notes**. [Nick Milo](https://twitter.com/NickMilo) calls them **Thing** and **Statement** notes.  
