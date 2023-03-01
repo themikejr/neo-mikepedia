@@ -30,7 +30,7 @@ The **Highlight Note** is the next step in developing your thinking. If one of t
 # The Spirit of Early Christian Thought  
 2003, Robert Louis Wilken  
   
-108 [seek his face always](seek%20his%20face%20always.md)  
+108 \[\[seek his face always]]  
 153 our mind is beyond us  
 173 the student begins by putting himself in the hands of the teacher  
 ```  
