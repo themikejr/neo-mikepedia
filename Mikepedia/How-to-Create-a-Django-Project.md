@@ -10,13 +10,13 @@ up :: [∴ Software Development](./%E2%88%B4-Software-Development.md)
   
 Start postgres:  
   
-```sh  
+```shell  
 sudo service postgresql start  
 ```  
   
 Create a database:  
   
-```sh  
+```shell  
 sudo -u postgres createdb <project-name>  
 ```  
   
@@ -24,14 +24,14 @@ sudo -u postgres createdb <project-name>
   
 Make a project dir:  
   
-```sh  
+```shell  
 mkdir <project-dir>  
 cd <project-dir>  
 ```  
   
 Init poetry:  
   
-```sh  
+```shell  
 poetry init  
 ```  
   
@@ -39,30 +39,30 @@ Follow the prompts. Add `Django` as a dependency and `black` as a development de
   
 Poetry install:   
   
-```sh  
+```shell  
 poetry install  
 ```  
   
 Create django project:  
   
-```sh  
+```shell  
 poetry run django-admin startproject <project-name> .  
 ```  
   
 Create django app:  
   
-```sh  
+```shell  
 poetry run ./mange.py startapp <app-name>  
 ```  
   
 Run initial migrations:  
   
-```cli  
+```shell  
 poetry run ./manage.py migrate  
 ```  
   
 Start local server:   
   
-```cli  
+```shell  
 poetry run ./manage.py runserver  
 ```  
