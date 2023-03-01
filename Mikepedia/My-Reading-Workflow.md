@@ -76,15 +76,18 @@ up :: [Concepts]
   
 # Find as though you will go on seeking  
   
-In the pursuit of knowledge, skill, achievenment, and happiness,  
-it is important tothink of *finding* (or achieving, acquiring)   
-as the next step in the journey. Finding something is less like an   
-arrival at certainty or landing on some sort of final achievement.   
-Instead, *finding* is but one step in a process of continual seeking.  
-Indeed, *finding* opens new doors to things we did not know before.  
+In the pursuit of knowledge, skill, achievenment, and   
+happiness, it is important tothink of *finding* (or  
+achieving, acquiring) as the next step in the journey.  
+Finding something is less like an arrival at certainty   
+or landing on some sort of final achievement. Instead,   
+*finding* is but one step in a process of continual   
+seeking. Indeed, *finding* opens new doors to things   
+we did not know before.  
   
-This is similar to [how dopamine works]. It is also a mindset that   
-can help us to [remain open] as we become wiser.   
+This is similar to [how dopamine works]. It is also   
+a mindset that can help us to [remain open] as   
+we become wiser.   
 ```  
   
 There are many approaches to actually writing the **Main Note** so don't take my example above as the one true way. The "right" way to do it is a topic of debat amongst PKM geeks. I certainly didn't come up with the idea of atomic notes myself. [Andy Matuschak](https://notes.andymatuschak.org/Evergreen_notes) calls them **Evergreen Notes**. [Sonke Ahrens](https://twitter.com/soenke_ahrens?lang=en) calls them **Permanent Notes**. [Nick Milo](https://twitter.com/NickMilo) calls them **Thing** and **Statement** notes.  
