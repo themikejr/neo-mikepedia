@@ -55,9 +55,8 @@ other things. As soon as we think we "find" understanding, the
 seeking begins again because we've learned about things we   
 weren't aware of before. Finding is an invitation for more seeking.  
   
-This reminds me of my note on [1 Cor 8:2](1%20Cor%208:2.md) where Paul says   
-"If anyone imagines that he knows something, he does not yet   
-know as he ought to know".   
+This reminds me of <<1 Cor 8:2>> where Paul says  "If anyone imagines   
+that he knows something, he does not yet  know as he ought to know".   
   
 New note ideas:  
   
@@ -82,8 +81,8 @@ arrival at certainty or landing on some sort of final achievement.
 Instead, *finding* is but one step in a process of continual seeking.  
 Indeed, *finding* opens new doors to things we did not know before.  
   
-This is similar to [how dopamine works](how%20dopamine%20works.md). It is also a mindset that   
-can help us to [remain open](remain%20open.md) as we become wiser.   
+This is similar to <<how dopamine works>>. It is also a mindset that   
+can help us to <<remain open>> as we become wiser.   
 ```  
   
 There are many approaches to actually writing the **Main Note** so don't take my example above as the one true way. The "right" way to do it is a topic of debat amongst PKM geeks. I certainly didn't come up with the idea of atomic notes myself. [Andy Matuschak](https://notes.andymatuschak.org/Evergreen_notes) calls them **Evergreen Notes**. [Sonke Ahrens](https://twitter.com/soenke_ahrens?lang=en) calls them **Permanent Notes**. [Nick Milo](https://twitter.com/NickMilo) calls them **Thing** and **Statement** notes.  
