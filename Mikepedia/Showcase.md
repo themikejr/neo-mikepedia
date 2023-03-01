@@ -24,11 +24,9 @@ I was always seeking...
   
   
   
-  
-  
 # What I Learned and Implemented  
   
-## New Concepts  
+## Concepts  
 - note-making & active thinking  
 - navigating via links & MOCs  
   
