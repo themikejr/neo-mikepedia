@@ -30,14 +30,14 @@ The **Highlight Note** is the next step in developing your thinking. If one of t
 # The Spirit of Early Christian Thought  
 2003, Robert Louis Wilken  
   
-108 \[\[seek his face always]]  
+108 [seek his face always](seek%20his%20face%20always.md)  
 153 our mind is beyond us  
 173 the student begins by putting himself in the hands of the teacher  
 ```  
   
 In the highlight note, create a dated section and commit to reflecting on the passage for a few minutes. Very often, new connections, ideas, and notes are born here. An example **Highlight Note** looks like this:  
   
-```  
+````  
 up:: [The Spirit of Early Christian Thought](The%20Spirit%20of%20Early%20Christian%20Thought.md)  
 # Seek His Face Always  
   
@@ -57,9 +57,9 @@ This reminds me of my note on [1 Cor 8:2](1%20Cor%208:2.md) where Paul says "If 
   
 New note ideas:  
   
-- [seek as though you will find](seek%20as%20though%20you%20will%20find.md)  
+- [find as though you will go on seeking](find%20as%20though%20you%20will%20go%20on%20seeking.md)  
 - ...  
-```  
+````  
   
 I became convinced of the value of an exercise like this when [Bianca Pereira](https://biancapereira.me/) led us in a 6 minute freewriting exercise during the [Linking Your Thinking](https://linkingyourthinking.com) workshop. In 6 minutes I had deeper ideas about the topic at hand than I ever expected to have. If a note in your hub note is worth reflecting on, take 5 minutes or so and freewrite. You probably won't regret it.   
   
@@ -69,7 +69,7 @@ The freewriting exercise will often lead to ideas that will lead you to create a
 ```  
 up :: [Concepts](Concepts.md)  
   
-# Seek as though you will find  
+# Find as though you will go on seeking  
   
 In the pursuit of knowledge, skill, achievenment, and happiness, it is important to  
 think of *finding* (or achieving, acquiring) as the next step in the journey.  
