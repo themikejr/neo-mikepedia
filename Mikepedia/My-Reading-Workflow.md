@@ -1,5 +1,8 @@
 ---  
 share: true  
+title: "My Reading Workflow"  
+created: 2023-03-01  
+modified: 2023-03-01  
 ---  
 up :: [∴ PKM](./%E2%88%B4-PKM.md)  
   
