@@ -10,7 +10,9 @@ This is a higher-order note that acts as a hub for my **SOFTWARE DEVELOPMENT** n
   
 When it comes to **METHOD**, many people speak in terms of [Agile](./Agile.md) and [Waterfall](./Waterfall.md). It's probably more important to [Think Big, Work Small](./Think-Big-Work-Small.md).  
   
-**Data Structures** are interesting and they are everywhere. [Trees](./Tree.md) are naturally intuitive. [Graphs](./Graph.md) are surprisingly flexible.   
+**Data Structures** are interesting and they are everywhere. [Trees](./Tree.md) are naturally intuitive. [Graphs](./Graph.md) are surprisingly flexible.  
+  
+Overwhelmed or stuck? [PKM for Coders](../PKM%20for%20Coders.md) might help.  
   
 Lately I've been learning a bit of **Django**. So far I've noted [How to Create a Django Project](./How-to-Create-a-Django-Project.md).  
   
