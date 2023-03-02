@@ -19,7 +19,7 @@ In my daily note, I keep a bulleted list that I treat as a log. It contains thin
 - too many meetings today  
 ```  
   
-Then, at some regular interval (or whenever I feel like it), I can review all of the bullet points in my daily log that have been tagged with with `#spark`. From there I can decide if these need to become new notes, projects, or something else. I do this with a query via the **dataview** Obsidian plugin:  
+Then, at some regular interval (or whenever I feel like it), I can review all of the bullet points in my daily log that have been tagged with `#spark`. From there I can decide if these need to become new notes, projects, or something else. I do this with a query via the **dataview** Obsidian plugin:  
   
 ```markdown  
 LIST without id  
