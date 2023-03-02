@@ -1,6 +1,7 @@
 ---  
 share: true  
 comments: true  
+title: "PKM for Coders"  
 ---  
 up :: [∴ Software Development](./%E2%88%B4-Software-Development.md)  
 related :: [∴ PKM](./%E2%88%B4-PKM.md)  
