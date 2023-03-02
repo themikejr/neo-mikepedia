@@ -1,7 +1,8 @@
 ---  
 share: true  
+comments: true  
 ---  
-up :: [PKM for Coders](../PKM%20for%20Coders.md)  
+up :: [PKM for Coders](./PKM-for-Coders.md)  
   
 # Curiosity List  
   
