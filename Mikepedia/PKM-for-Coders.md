@@ -5,6 +5,7 @@ title: "PKM for Coders"
 ---  
 up :: [∴ Software Development](./%E2%88%B4-Software-Development.md)  
 related :: [∴ PKM](./%E2%88%B4-PKM.md)  
+tags :: #note/develop   
   
 # PKM for Coders  
 Despite **Software Engineer** being the classic example of a Knowledge Worker, very seldom do the popular PKM methods, techniques, and courses focus on use-cases for coders. This note covers some approaches that I've found useful.   

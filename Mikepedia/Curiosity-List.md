@@ -1,6 +1,7 @@
 ---  
 share: true  
 comments: true  
+title: "Curiosity List"  
 ---  
 up :: [PKM for Coders](./PKM-for-Coders.md)  
   
