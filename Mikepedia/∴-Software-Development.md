@@ -12,7 +12,7 @@ When it comes to **METHOD**, many people speak in terms of [Agile](./Agile.md) a
   
 **Data Structures** are interesting and they are everywhere. [Trees](./Tree.md) are naturally intuitive. [Graphs](./Graph.md) are surprisingly flexible.  
   
-Overwhelmed or stuck? [PKM for Coders](../PKM%20for%20Coders.md) might help.  
+Stuck or overwhelmed? [PKM for Coders](./PKM-for-Coders.md) might help.  
   
 Lately I've been learning a bit of **Django**. So far I've noted [How to Create a Django Project](./How-to-Create-a-Django-Project.md).  
   
