@@ -13,10 +13,10 @@ When it comes to **PKM** and **TAKING NOTES**, having a solid reading workflow i
   
 This workflow is not an invention out of thin air. It's a result of [Combinational Creativity](../Combinational%20Creativity.md). It definite similarities to other note-taking systems, even the old-school way that the man himself --- Niklas Luhmann --- took notes.   
   
-The **reading workflow** starts with the **Hub Note**. If the needed it progresses to the **Highlight Note** and finally, **Main Note**.  
+The **reading workflow** starts with the **Marginalia Note**. If needed it progresses to the **Passage Note** and finally, **Main Note**.  
   
-## 1: The Hub Note  
-The idea with the **Hub Note** is the lightweight place to record thoughts that occur while consuming a source. When a thought occurs while reading, record the page number and a word, phrase, or sentence that describes the thought. Here is an example:  
+## 1: The Marginalia Note  
+The idea with the **Marginalia Note** is the lightweight place to record thoughts that occur while consuming a source. It's not that much different from what one might scribble in the margin of a book. When a thought occurs while reading, record the page number and a word, phrase, or sentence that describes the thought. Here is an example:  
   
 ```markdown  
 # The Spirit of Early Christian Thought  
@@ -31,8 +31,8 @@ The page number is an anchor linking back to the source itself. Highlighting or 
   
 I first got this idea from [Bob Doto](https://writing.bobdoto.computer/what-is-a-literature-note/). He calls this the **Reference Note**. [Scott Scheper]() calls it the **Bibnote**. Scheper would say this is basically what Luhmann (I believe him). Depending on where/how one reads, it may be worth starting with an analog version of the hub note. Tuck an index card in your book and use it to track these thoughts as you read. Old school approaches like these allow one to disconnect from the digital world.  
   
-## 2: The Highlight Note  
-The **Highlight Note** is the next step in developing the thought. If one of the lines in the **Hub Note** continues to resonate, turn that text into a note who's filename is the noted phrase itself. For example, here is a case where I decided to further reflect on *seek his face always*, so I link to a **Highlight Note** in my **Hub Note** (`[...]` denotes linked text):  
+## 2: The Passage Note  
+The **Passage Note** is the next step in developing the thought. It's a place where thoughts and reflections on a specific passage can develop. If one of the lines in a **Marginalia Note** continues to resonate, turn that text into a note who's filename is the noted phrase itself. For example, here is a case where I decided to further reflect on *seek his face always*, so I link to a **Passage Note** in my **Marginalia Note** (`[...]` denotes linked text):  
   
 ```markdown  
 # The Spirit of Early Christian Thought  
@@ -43,7 +43,7 @@ The **Highlight Note** is the next step in developing the thought. If one of the
 173 student begins by putting himself in hands of teacher  
 ```  
   
-In the **highlight note**, create a dated section and commit to reflecting on the passage for a few minutes. Very often, new connections, ideas, and notes are born here. An example **Highlight Note**:  
+In the **Passage note**, create a dated section and commit to reflecting on the passage for a few minutes. Very often, new connections, ideas, and notes are born here. An example:  
   
 ```markdown  
 up:: [The Spirit of Early Christian Thought]  
