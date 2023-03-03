@@ -43,4 +43,7 @@ git push
 ````  
   
   
-Obviously, we don't want to be consulting this note every time we work with **Git** for the rest of our lives, but we also don't want to have to google the commands each time we need them. While we're still learning, the **Guide Note** is a way to improve our efficiency.
+Obviously, we don't want to be consulting this note every time we work with **Git** for the rest of our lives, but we also don't want to have to google the commands each time we need them. While we're still learning, the **Guide Note** is a way to improve our efficiency.  
+  
+### Short Anecdote  
+Recently I've been building some things with **Python** and **Django**. I created [Django Project Creation Guide](./Django-Project-Creation-Guide.md) in the process.
