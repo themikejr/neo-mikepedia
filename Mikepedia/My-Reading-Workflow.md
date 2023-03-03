@@ -52,7 +52,7 @@ up:: [The Spirit of Early Christian Thought]
   
 > As we grow in understanding, says Augustine, we think   
 > we will reach an end in our search. But the psalmist   
-> says "seek his face _always."_ David is not speaking   
+> says "seek his face _always_." David is not speaking   
 > about knowing God as we know other things...  
   
 ---  
