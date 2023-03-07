@@ -16,6 +16,8 @@ A common criticism of [Waterfall](./Waterfall.md) software development approache
   
 **Think Big**, **Work Small** can be employed fractally on software projects. It can be how the project as a whole is executed, how features are prioritized, how features are implemented, and how the product is released.  
   
+The desire to know before acting is fallacious since it equates knowledge with information. Information is more than knowledge. See [The Defective Epistemic Default](../The%20Defective%20Epistemic%20Default.md) and [Collector's Fallacy](./Collector's-Fallacy.md).  
+  
 This is similar to the biomechanics of [Cycling Cadence](Cycling%20Cadence.md) and [Running Cadence](Running%20Cadence.md).  
   
 For more, see [John Cutler](https://cutlefish.substack.com/p/tbm-452-think-big-work-small-part) and [Jason Yip](https://jchyip.medium.com/guiding-principle-think-big-work-small-8fb1fce6dd97).
