@@ -1,5 +1,7 @@
 ---  
 share: true  
+title: "∴ Vue"  
+comments: true  
 ---  
 up :: [∴ Software Development](./%E2%88%B4-Software-Development.md)  
   
