@@ -14,7 +14,8 @@ When it comes to **METHOD**, many people speak in terms of [Agile](./Agile.md) a
   
 Stuck or overwhelmed? [PKM for Coders](./PKM-for-Coders.md) might help.  
   
-Lately I've been learning a bit of **Django**. See [Django Project Creation Guide](./Django-Project-Creation-Guide.md).  
+In the spirit of antifragility and being a generalist, I enjoy taking on projects that challenge me to learn new technologies, tools, and frameworks. At the moment, I'm digging into [∴ Django](./%E2%88%B4-Django.md) and [∴ Vue](./%E2%88%B4-Vue.md).  
+  
   
 ## Retrospectives  
 - [On 10 Years of Making Software](./On-10-Years-of-Making-Software.md)  
