@@ -1,5 +1,7 @@
 ---  
 share: true  
+title: "Reactivity in Vue"  
+comments: true  
 ---  
 up :: [∴ Vue](./%E2%88%B4-Vue.md)  
 # Reactivity in Vue  
@@ -9,7 +11,7 @@ In Vue, reactivity can be wrapped around values in two different ways: `ref()` a
   
 **REACTIVE** is a wrapper for objects. It uses JavaScript **PROXY** to wrap the object and track mutations. Calling `reactive({ count: 0})` return an object that wraps an equivalent of the original. The newly returned object will not be equal to the original. Access and mutate object properties directly, like `obj.count++`.  
   
-See [Reactivity](../Reactivity.md).  
+See [Reactivity](./Reactivity.md).  
   
 # References  
   

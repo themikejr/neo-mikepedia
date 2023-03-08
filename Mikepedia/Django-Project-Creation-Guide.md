@@ -1,8 +1,9 @@
 ---  
 share: true  
 title: "Django Project Creation Guide"  
+comments: true  
 ---  
-up :: [∴ Software Development](./%E2%88%B4-Software-Development.md)  
+up :: [∴ Django](./%E2%88%B4-Django.md)  
   
 # Django Project Creation Guide  
   
