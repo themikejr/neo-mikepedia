@@ -24,6 +24,6 @@ As much as anyone, software developers, data engineers, site reliability enginee
 These tactics below are moves to make in your system in order to develop your knowledge. They assume the use of a note-taking tool that allows you to make links but they should be broadly applicable.  
   
 1. The [Curiosity List](./Curiosity-List.md) inspires and guides your learning.   
-2. The [Guide Note](./Guide-Note.md) is a memory cache and playbook for a set of related steps.  
-3. The [Placeholder Note](../Placeholder%20Note.md) is a bookmark for ideas you may want to explore later.  
-4. The [Resource List](Resource%20List.md) is a greatest hits album for your most-used tools and techniques.  
+2. The [Guide Note](./Guide-Note.md) is a playbook and memory cache.  
+3. The [Placeholder Note](../Placeholder%20Note.md) is a bookmark for later exploration.  
+4. The Resource List contains greatest hits for important subjects.  
