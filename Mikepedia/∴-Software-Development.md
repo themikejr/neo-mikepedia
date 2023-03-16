@@ -8,7 +8,7 @@ up :: [∴ Mikepedia](./index.md)
   
 This is a higher-order note that acts as a hub for my **SOFTWARE DEVELOPMENT** notes.  
   
-When it comes to **METHOD**, many people speak in terms of [Agile](./Agile.md) and [Waterfall](./Waterfall.md). It's probably more important to [Think Big, Work Small](./Think-Big-Work-Small.md).  
+When it comes to **METHOD**, many people speak in terms of [Agile](./Agile.md) and [Waterfall](./Waterfall.md). It's probably more important to [Think Big, Work Small](./Think-Big-Work-Small.md). While working small, work *modally* and [Dichotomize Behavior and Structure](./Dichotomize-Behavior-and-Structure.md).  
   
 **Data Structures** are interesting and they are everywhere. [Trees](./Tree.md) are naturally intuitive. [Graphs](./Graph.md) are surprisingly flexible.  
   
