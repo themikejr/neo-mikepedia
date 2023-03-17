@@ -11,7 +11,7 @@ The first time I used **Python** ~2013 when I created some **Jython** scripts th
 Since those fateful days, I've dabbled with **Python** and **LXML** here and there. Now days, I'm working on a Django backend. What you'll find here are some public notes and curated resources  that I've accumulated as I'm getting to know **Python** and **Django** better.  
   
 ## Django  
-The [Django Project Creation Guide](./Django-Project-Creation-Guide.md) helps me remember how to spin up new Django projects locally. I've recently started using [Django REST Framework](../Django%20REST%20Framework.md) to expose Django views as an API.  
+The [Django Project Creation Guide](./Django-Project-Creation-Guide.md) helps me remember how to spin up new Django projects locally. I recently tested [Django REST Framework](./Django-REST-Framework.md) to expose Django views as an API.  
   
 ## Curated Resources  
 [Django News](https://django-news.com/) is a weekly newsletter that includes helpful links and updates relevant to the Django community.  
