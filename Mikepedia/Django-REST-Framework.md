@@ -35,8 +35,8 @@ The `get_queryset` method can be overridden to customize how the view is filtere
 ```python  
 class ReviewList(generics.ListAPIView):  
      """  
-    API endpoint that allows reviews to be viewed by coffee and reviewer.  
-    Reviewer is required.  
+    API endpoint that allows reviews to be viewed by   
+    coffee and reviewer.  
     """  
   
 	serializer_class = ReviewSerializer  
@@ -44,10 +44,10 @@ class ReviewList(generics.ListAPIView):
     def get_queryset(self):  
         coffee_id = self.kwargs["coffee"]  
         coffee = Coffee.objects.get(id=coffee_id)  
-        reviewers = self.request.query_params.getlist("reviewer")  
+        reviewers = self.request.query_params.get("reviewer")  
   
         return Reviews.objects.filter(  
-            coffee=coffee, reviewe__in=reviewers  
+            coffee=coffee, reviewer=reviewer  
         )  
 ```  
   
