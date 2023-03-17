@@ -3,7 +3,7 @@ share: true
 title: "Django Project Creation Guide"  
 comments: true  
 ---  
-up :: [∴ Django](./%E2%88%B4-Django.md)  
+up :: [∴ Django](./%E2%88%B4-Python.md)  
   
 # Django Project Creation Guide  
   
