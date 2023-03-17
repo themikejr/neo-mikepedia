@@ -16,4 +16,4 @@ The [Django Project Creation Guide](./Django-Project-Creation-Guide.md) helps me
 ## Curated Resources  
 [Django News](https://django-news.com/) is a weekly newsletter that includes helpful links and updates relevant to the Django community.  
   
-[Brett Cannon](https://snarky.ca/) blogs about Python tools and internals. [Will Vincent](https://wsvincent.com/) has a book for Django beginners and blogs as well. [Carlton Gibson](https://noumenal.es/) hosts the [Django Chat]() podcast and blogs occasionally. [Adam Johnson](https://adamj.eu/) is an open source maintainer who writes books and blogs with a focus on Django.  
+[Brett Cannon](https://snarky.ca/) blogs about Python tools and internals. [Will Vincent](https://wsvincent.com/) has a book for Django beginners and blogs as well. [Carlton Gibson](https://noumenal.es/) hosts the [Django Chat](https://djangochat.com/) podcast and blogs occasionally. [Adam Johnson](https://adamj.eu/) is an open source maintainer who writes books and blogs with a focus on Django.  
