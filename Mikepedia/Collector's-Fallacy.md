@@ -7,7 +7,7 @@ up :: [∴ PKM](./%E2%88%B4-PKM.md)
 related :: [The Defective Epistemic Default](../The%20Defective%20Epistemic%20Default.md)  
   
 # The Collector's Fallacy  
-Obtaining is not knowing. **The Collector's Fallacy** says *if I could just become aware of an idea*, or *if I could just obtain information about this thing* then I will be well on my way to expanding and developing my knowledge. Our web browsing and social media habits get looped into our dopamine circuits so that we are ever caught in pursuing the collection information. We convince ourselves that these acts are developing knowledge but at best we are only material that could be used to develop knowledge.   
+Obtaining is not knowing. **The Collector's Fallacy** says *if I could just become aware of an idea*, or *if I could just obtain information about this thing* then I will be well on my way to expanding and developing my knowledge. Our web browsing and social media habits get looped into our dopamine circuits so that we are ever caught in pursuing the collection information. We convince ourselves that these acts are developing knowledge but at best we are only material that could be used to develop knowledge.  
   
 Knowing requires the [integration](../Subsidiary%20Focal%20Integration.md) of that which we observe. Expanding and developing knowledge requires a change in ourselves.   
   
