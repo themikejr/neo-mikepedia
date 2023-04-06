@@ -25,4 +25,19 @@ But, the type of verb can impact the meaning of the preposition. A *stative* ver
 Proclitic (accented with the following word). Only allows the dative case.  
   
 ### Dative  
-Marks a location of something being *in* something else. With *stative* verbs it signals something being in a particular state. It can also mean something like "into". It may also introduce an instrument. In these cases it is better glossed as *with*.
+Marks a location of something being *in* something else. With *stative* verbs it signals something being in a particular state. It can also mean something like "into". It may also introduce an instrument. In these cases it is better glossed as *with*.  
+  
+## ἀπό  
+Prepositions ending in vowels have special contraction rules:  
+  
+| Following sound | example          |  
+| --------------- | ---------------- |  
+| consonant       | **ἀπὸ** σκηνῆς   |  
+| vowel (smooth)  | **ἀπ'** ἀνθρώπου |  
+| vowel (rough)   | **ἀφ'** ἵππου    |  
+  
+### Genitive  
+ἀπό only takes the genitive case. Prepositions in the genitive case often signify motion or direction away from something.   
+  
+- motion or direction away from something  
+- source of something
