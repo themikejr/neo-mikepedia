@@ -20,4 +20,12 @@ featured: false
 ## Verb  
   
 ## Direct Object  
-Effected by the action of the verb in some way.
+Effected by the action of the verb in some way.  
+  
+# Other Terms  
+  
+## Agreement  
+Matching between subject and verb is called "agreement". This is discussed with respect to things like number (singular vs. plural) and possibly gender.  
+  
+- There is a rule from Attic Greek that says a non-human plural neuter subject can take a singular verb. This rule is inconsistently applied in the NT.  
+- Verbs can take multiple argument patterns aka *argument realizations*.
