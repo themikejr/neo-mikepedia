@@ -6,7 +6,7 @@ up :: [∴ Mikepedia](./index.md)
   
 # ∴ Coffee Journal  
   
-- [Colombian La Indonesia Bourbon Sidra](./2023-05-26-Prodigal-Sidra.md) from Prodigal Cofffee  
+- [La Indonesia Bourbon Sidra](./2023-05-26-Prodigal-Sidra.md) from Prodigal Cofffee  
 - [Geometry](./2023-05-19-Geometry.md) from Onyx Coffee Lab  
 - [ Peru El Puquio](./2023-03-20.md) from Wonderstate Coffee  
 - [Colombia Juan Martin Castillo](./2023-03-09.md) from Intelligentsia Coffee  
